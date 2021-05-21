@@ -1,0 +1,17 @@
+{
+    "database": {
+        "host": "host",
+        "database": "database",
+        "user": "user",
+        "password": "password"
+    },
+    "jwt": {
+        "secret": "secret"
+    },
+    "user": {
+        "salt": "salt"
+    },
+    "chat": {
+        "title": ""
+    }
+}
